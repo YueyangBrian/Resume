@@ -247,4 +247,4 @@ st.markdown('''
 txt6('Published 11 peer-reviewed articles in internationally accredited journals.', ' ')
 txt6('Wrote a chapter for “Nanotoxicology” to review the nanotoxicology in the aquatic environment.', ' ')
 txt6('Received two of the most prestigious scholarships in Canada: the Alberta Innovates-Graduate Student Scholarship and Mitacs Elevate, and over 15 other awards in chemistry, physics and biology.', ' ')
-txt6('Presented at more than 20 national and international conferences and workshops', ' ')
+txt6('Presented at more than 20 national and international conferences and workshops.', ' ')
