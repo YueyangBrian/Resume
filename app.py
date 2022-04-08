@@ -204,7 +204,7 @@ st.markdown('''
 ## Community Engagement and Additional Activities
 ''')
 
-txt('**Supervisor**, Biological Sciences, University of New Brunswick, Canada',
+txt('**Supervisor**, Biological Sciences, University of Alberta, Canada',
     '2018-2021')
 st.markdown('''
 - Mentored indigenous students in I-STEAM program.
