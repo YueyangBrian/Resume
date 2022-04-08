@@ -156,19 +156,19 @@ st.markdown('''
 - Taught 70 undergraduate students on Biol 341: Ecotoxicology.
 ''')
 
+txt5('**Teaching assistant**, Biological Sciences, University of Alberta, Canada',
+    '2017-2019')
+st.markdown('''
+- Biol 341: Ecotoxicology.
+- Organized tutorials and graded assignments and exams.
+''')
+
 txt5('**Lab instructor**, Biological Sciences, University of Alberta, Canada',
     '2015-2020')
 st.markdown('''
 - Taught over 300 undergraduate students on Biol 107 lab.
 - Set up the lab and prepared materials for experiments.
 - Supervised students in the lab.
-- Organized tutorials and graded assignments and exams.
-''')
-
-txt5('**Teaching assistant**, Biological Sciences, University of Alberta, Canada',
-    '2017-2019')
-st.markdown('''
-- Biol 341: Ecotoxicology.
 - Organized tutorials and graded assignments and exams.
 ''')
 
