@@ -213,8 +213,8 @@ st.markdown('''
 - Supervised Biology 499 students in Undergraduate Research Initiative program
 ''')
 
-txt('**Student co-chair**, 46th Canadian Ecotoxicity, Canada',
-    '2018-2021')
+txt('**Student co-chair**, 46th Canadian Ecotoxicity Workshop, Canada',
+    '2019')
 st.markdown('''
 - Monitored session “Alternative Approaches to Animal Testing for Ecotoxicity”
 ''')
