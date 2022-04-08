@@ -187,6 +187,20 @@ st.markdown('''
 
 #####################
 st.markdown('''
+## Skills
+''')
+txt3('Programming', '`Python`, `R`')
+txt3('Data processing/wrangling', '`SQL`, `pandas`, `numpy`')
+txt3('Data visualization', '`matplotlib`, `seaborn`, `Tableau`')
+txt3('Web development', '`Flask`')
+txt3('Model deployment', '`streamlit`')
+txt6('GraphPad Prism', ' ')
+txt6('Microsoft Office', ' ')
+txt6('Nuclear Energy Worker', ' ')
+txt6('Canadian Council on Animal Care certified animal user', ' ')
+
+#####################
+st.markdown('''
 ## Community Engagement and Additional Activities
 ''')
 
@@ -218,20 +232,6 @@ txt('**Student councilor**, Biological Sciences, University of Alberta, Canada',
 st.markdown('''
 - Monitored budget plan updates, course changes, scholarship applications and other affairs.
 ''')
-
-#####################
-st.markdown('''
-## Skills
-''')
-txt3('Programming', '`Python`, `R`')
-txt3('Data processing/wrangling', '`SQL`, `pandas`, `numpy`')
-txt3('Data visualization', '`matplotlib`, `seaborn`, `Tableau`')
-txt3('Web development', '`Flask`')
-txt3('Model deployment', '`streamlit`')
-txt6('GraphPad Prism', ' ')
-txt6('Microsoft Office', ' ')
-txt6('Nuclear Energy Worker', ' ')
-txt6('Canadian Council on Animal Care certified animal user', ' ')
 
 #####################
 st.markdown('''
