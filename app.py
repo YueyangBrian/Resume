@@ -49,13 +49,13 @@ st.markdown("""
         <a class="nav-link" href="#skills">Skills</a>
       </li>
       <li class="nav-item">
+        <a class="nav-link" href="#achievements">Achievements</a>
+      </li>
+      <li class="nav-item">
         <a class="nav-link" href="#additional-activities">Additional Activities</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#social-media">Social Media</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#achievements">Achievements</a>
       </li>
     </ul>
   </div>
