@@ -49,7 +49,7 @@ st.markdown("""
         <a class="nav-link" href="#skills">Skills</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#community-engagement-and-additional-activities">Community Engagement and Additional Activities</a>
+        <a class="nav-link" href="#additional-activities">Additional Activities</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#social-media">Social Media</a>
@@ -201,7 +201,16 @@ txt6('Canadian Council on Animal Care certified animal user', ' ')
 
 #####################
 st.markdown('''
-## Community Engagement and Additional Activities
+## Achievements
+''')
+txt6('Published 11 peer-reviewed articles in internationally accredited journals.', ' ')
+txt6('Wrote a chapter for “Nanotoxicology” to review the nanotoxicology in the aquatic environment.', ' ')
+txt6('Received two of the most prestigious scholarships in Canada: the Alberta Innovates-Graduate Student Scholarship and Mitacs Elevate, and over 15 other awards in chemistry, physics and biology.', ' ')
+txt6('Presented at more than 20 national and international conferences and workshops.', ' ')
+
+#####################
+st.markdown('''
+## Additional Activities
 ''')
 
 txt('**Supervisor**, Biological Sciences, University of Alberta, Canada',
@@ -240,11 +249,4 @@ st.markdown('''
 txt2('LinkedIn', 'https://www.linkedin.com/in/yueyang-zhang-8448671bb/')
 txt2('ORCID', 'https://orcid.org/my-orcid?orcid=0000-0001-9219-7637')
 
-#####################
-st.markdown('''
-## Achievements
-''')
-txt6('Published 11 peer-reviewed articles in internationally accredited journals.', ' ')
-txt6('Wrote a chapter for “Nanotoxicology” to review the nanotoxicology in the aquatic environment.', ' ')
-txt6('Received two of the most prestigious scholarships in Canada: the Alberta Innovates-Graduate Student Scholarship and Mitacs Elevate, and over 15 other awards in chemistry, physics and biology.', ' ')
-txt6('Presented at more than 20 national and international conferences and workshops.', ' ')
+
