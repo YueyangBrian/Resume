@@ -17,7 +17,7 @@ st.image(image, width=150)
 st.markdown('## Summary', unsafe_allow_html=True)
 st.info('''
 - Ph.D. graduate in Physiology, Cell and Developmental Biology with a specialization in aquatic toxicology. 
-- Experience researcher with over 7 years of experience in aquatic toxicology with a passion for applying knowledge to create positive impacts on environment and economy.
+- Experienced researcher with over 7 years of experience in aquatic toxicology with a passion for applying knowledge to create positive impacts on the environment and economy.
 - Strong track record in scholarly research.
 ''')
 
