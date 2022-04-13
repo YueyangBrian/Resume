@@ -38,6 +38,9 @@ st.markdown("""
   <div class="collapse navbar-collapse" id="navbarNav">
     <ul class="navbar-nav">
       <li class="nav-item">
+        <a class="nav-link" href="#yueyang-zhang-ph-d">Home</a>
+      </li>
+      <li class="nav-item">
         <a class="nav-link" href="#education">Education</a>
       </li>
       <li class="nav-item">
