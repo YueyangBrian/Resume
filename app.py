@@ -191,8 +191,8 @@ st.markdown('''
 ## Skills
 ''')
 txt3('Programming', '`Python`, `R`')
-txt3('Data processing/wrangling', '`SQL`, `pandas`, `numpy`')
-txt3('Data visualization', '`matplotlib`, `seaborn`, `Tableau`')
+txt3('Data processing/wrangling', '`pandas`, `numpy`, `SQL`')
+txt3('Data visualization', '`Tableau`, `matplotlib`, `seaborn`')
 txt3('Web development', '`Flask`')
 txt3('Model deployment', '`streamlit`')
 txt6('GraphPad Prism', ' ')
